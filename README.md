@@ -40,8 +40,20 @@ D32 機器學習-流程與步驟
 D33 機器如何學習?  
 D34 訓練/測試極切分的概念  
 D35 regression v.s classification  
-  
+D36 評估指標選定/evaluation metrics  
+D37 regression model 介紹 - 線性迴歸/羅吉斯回歸    
+D38 regression model 程式碼撰寫    
+D39 regression model 介紹 - LASSO 回歸/ Ridge 回歸  
+D40 regression model 程式碼撰寫  
+D41 tree based model - 決策樹 (Decision Tree) 模型介紹  
+D42 tree based model - 決策樹程式碼撰寫  
+D43 tree based model - 隨機森林 (Random Forest) 介紹  
+D44 tree based model - 隨機森林程式碼撰寫  
+D45 tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹    
+D46 tree based model - 梯度提升機程式碼撰寫    
+
 ## 4 機器學習調整參數  
+D47 超參數調整與優化  
 
 ## 5 非監督式機器學習  
 
