@@ -56,7 +56,7 @@ D46 tree based model - 梯度提升機程式碼撰寫
 D47 超參數調整與優化  
 D48 Kaggle 競賽平台介紹  
 D49 集成方法 : 混合泛化(Blending)  
-D50 集成方法 : 堆疊泛化(Stacking)
+D50 集成方法 : 堆疊泛化(Stacking)  
 D51-53 Kaggle 第一次期中考  
 
 ## 5 非監督式機器學習  
